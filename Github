@@ -1,0 +1,17 @@
+{
+  "title": "<Le Bizzarre Avventure di JoJo: Vento Aureo>",
+  "description": "<N/A>",
+  "artist": "<Hirohiko Araki>",
+  "author": "<Hirohiko Araki>",
+  "cover": "<https://i.imgur.com/XCgdJ7L.png>",
+  "chapters": {
+    "<chapter number>": {
+      "title": "<Gold Experience - Parte 1>",
+      "volume": "<1>",
+      "groups": {
+        "<Progetto JoJo Italia>": "/proxy/api/imgur/chapter/<BPxPeje>/"
+      },
+      "last_updated": "1616368746"
+    },
+  }
+}
